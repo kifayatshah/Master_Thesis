@@ -4,7 +4,7 @@
       <net-file value="ingolstadt_24h.net.xml"/>
       <route-files value="motorized_routes_2020-09-16_24h.rou.xml.gz"/>
       <gui-settings-file value="gui_settings.settings.xml"/>
-      <additional-files value="tlLogics_WAUT_2020-09-16_24h.add.xml, ingolstadt.poly.xml.gz, lane_data_collection.add.xml"/>
+      <additional-files value="tlLogics_WAUT_2020-09-16_24h.add.xml, ingolstadt.poly.xml.gz"/>
    </input>
    <time>
       <begin value="21600"/>
