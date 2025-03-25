@@ -109,8 +109,8 @@ def main():
     print(f"Simulation step length: {step_length} seconds")
 
     # Signal logic file paths
-    hard_gating_file = r"C:\Kifayat Shah\traci_traffic_light\signal_changed\Signal_Logics_16_No_entry2.txt"
-    soft_gating_file = r"C:\Kifayat Shah\traci_traffic_light\signal_changed\Signal_Logics_smooth_gate.txt"
+    hard_gating_file = r"C:\Kifayat Shah\traci_traffic_light\signal_changed\Signal_Logics_gating_2.txt"
+    soft_gating_file = r"C:\Kifayat Shah\traci_traffic_light\signal_changed\Signal_Logics_gating_1.txt"
     pn_lanes_file = r"C:\Kifayat Shah\traci_traffic_light\signal_changed\All_PN_Vehicular_Lanes.txt"
 
     # Parse all signal logics
