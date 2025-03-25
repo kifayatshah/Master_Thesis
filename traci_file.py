@@ -101,7 +101,7 @@ def main():
     SAMPLING_INTERVAL = 1.0  # Fixed 1-second sampling rate
 
     sumo_binary = "sumo-gui"
-    sumo_config = r"C:\Kifayat Shah\traci_traffic_light\signal_changed\24h_sim.sumocfg"
+    sumo_config = r" Path to your 24h_sim.sumocfg"
     traci.start([sumo_binary, "-c", sumo_config])
 
     # Get the simulation step length
